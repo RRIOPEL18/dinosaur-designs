@@ -1,0 +1,39 @@
+html{
+  background-color: #f2f1ed;
+  font-family: 'Patua One', cursive;
+  line-height: 1.5;
+}
+
+img{
+  width: 100%;
+}
+
+a,
+a:link {
+  font-weight: bold;
+  font-size: 1.125rem;
+  color: #793284;
+}
+
+a:hover {
+  color: #b42885;
+}
+
+h1,h2 {
+  color: #5d8432;
+  text-transform: uppercase;
+}
+
+ol {
+  list-style: none;
+}
+
+figure {
+  text-align: center;
+  font-style: italic;
+  font-size: .75em;
+}
+
+figure.bigger {
+  font-size: 1rem;
+}
